@@ -75,7 +75,7 @@ Welcome to the AC–DC Power Supply project! This project involves designing a D
 ## Project Files
 
 - `LTspice/Project1.asc`: Schematic for transient simulation.
-- `Project Report.pdf`: Full design write-up including theory, simulation, results, and analysis.
+- `Project 1 Documentation.pdf`: Full design write-up including theory, simulation, results, and analysis.
 
 ---
 
