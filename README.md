@@ -75,7 +75,6 @@ Welcome to the AC–DC Power Supply project! This project involves designing a D
 ## Project Files
 
 - `LTspice/Project1.asc`: Schematic for transient simulation.
-- `AD3 Waveform Capture`: Used to confirm Vo and IL.
 - `Project Report.pdf`: Full design write-up including theory, simulation, results, and analysis.
 
 ---
