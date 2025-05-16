@@ -1,6 +1,6 @@
 # AC to DC Power Supply ⚡
 
-Welcome to the AC–DC Power Supply project! This project involves designing a DC power supply capable of delivering **3V ± 0.1V at 10mA** from a **120V AC input at 1 kHz**. The design uses a combination of rectifier, filter, and optional regulator stages. It was simulated in **LTspice** and physically implemented using lab components and a function generator.
+This project involves designing a DC power supply capable of delivering **3V ± 0.1V at 10mA** from a **120V AC input at 1 kHz**. The design uses a combination of rectifier, filter, and optional regulator stages. It was simulated in **LTspice** and physically implemented using lab components and a function generator.
 
 ---
 
@@ -78,11 +78,3 @@ Welcome to the AC–DC Power Supply project! This project involves designing a D
 - `Project 1 Documentation.pdf`: Full design write-up including theory, simulation, results, and analysis.
 
 ---
-
-## Future Improvements
-
-- Add voltage regulation for tighter ripple control.
-- Use a real transformer for full AC-to-DC implementation (instead of function generator).
-- Improve tolerance by using precision resistors and capacitors.
-- Explore PCB layout and fabrication for a compact, stable design.
-
