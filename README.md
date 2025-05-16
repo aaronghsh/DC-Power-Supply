@@ -87,6 +87,3 @@ Welcome to the AC–DC Power Supply project! This project involves designing a D
 - Improve tolerance by using precision resistors and capacitors.
 - Explore PCB layout and fabrication for a compact, stable design.
 
----
-
-Enjoy learning about power electronics! ⚡
